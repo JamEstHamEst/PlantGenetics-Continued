@@ -11,6 +11,7 @@
         <Optimize>true</Optimize>
         <DebugType>none</DebugType>
         <AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
+        <BaseOutputPath>C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\PlantGenetics-Continued-master\1.6\Assemblies</BaseOutputPath>
     </PropertyGroup>
 
     <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
@@ -27,11 +28,11 @@
     </PropertyGroup>
 
     <ItemGroup>
-        <PackageReference Include="Krafs.Publicizer" Version="1.0.3">
+        <PackageReference Include="Krafs.Publicizer" Version="2.3.0">
             <PrivateAssets>all</PrivateAssets>
             <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
         </PackageReference>
-        <PackageReference Include="Krafs.Rimworld.Ref" Version="1.6.4489-beta" GeneratePathProperty="true" />
+        <PackageReference Include="Krafs.Rimworld.Ref" Version="1.6.4535" GeneratePathProperty="true" />
         <PackageReference Include="Lib.Harmony" Version="*" ExcludeAssets="runtime" />
         <!-- Use Version="*-*" to get the latest beta! -->
     </ItemGroup>

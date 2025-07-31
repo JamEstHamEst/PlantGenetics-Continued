@@ -1,16 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
-	<name>Plant genetics</name>
-	<author>Adamas</author>
-	<packageId>Adamas.PlantGenetics</packageId>
-	<url>https://steamcommunity.com/sharedfiles/filedetails/?id=3049746470</url>
+	<name>Plant genetics(Continued)</name>
+	<author>Adamas, JamEstHamEst</author>
+	<packageId>Adamas.PlantGenetics.Continued</packageId>
 	<supportedVersions>
 		<li>1.4</li>
 		<li>1.5</li>
 		<li>1.6</li>
 	</supportedVersions>
-	<description>
-		Plant breeding: the science of maximizing plants' positive genetic traits into new plant varieties.
+	<description>Plant breeding: the science of maximizing plants' positive genetic traits into new plant varieties. \n\nThis is a continuation of Adamas' original plant genetics mod
 	</description>
 	<modIconPath IgnoreIfNoMatchingField="True">PlantGeneticsModIcon</modIconPath>
 	<modDependencies>

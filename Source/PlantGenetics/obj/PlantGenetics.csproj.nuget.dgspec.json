@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\PlantGenetics\\Source\\PlantGenetics\\PlantGenetics.csproj": {}
+    "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\PlantGenetics-Continued-master\\Source\\PlantGenetics\\PlantGenetics.csproj": {}
   },
   "projects": {
-    "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\PlantGenetics\\Source\\PlantGenetics\\PlantGenetics.csproj": {
+    "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\PlantGenetics-Continued-master\\Source\\PlantGenetics\\PlantGenetics.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\PlantGenetics\\Source\\PlantGenetics\\PlantGenetics.csproj",
+        "projectUniqueName": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\PlantGenetics-Continued-master\\Source\\PlantGenetics\\PlantGenetics.csproj",
         "projectName": "PlantGenetics",
-        "projectPath": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\PlantGenetics\\Source\\PlantGenetics\\PlantGenetics.csproj",
-        "packagesPath": "C:\\Users\\tomvd\\.nuget\\packages\\",
-        "outputPath": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\PlantGenetics\\Source\\PlantGenetics\\obj\\",
+        "projectPath": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\PlantGenetics-Continued-master\\Source\\PlantGenetics\\PlantGenetics.csproj",
+        "packagesPath": "C:\\Users\\tixpi\\.nuget\\packages\\",
+        "outputPath": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\PlantGenetics-Continued-master\\Source\\PlantGenetics\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\tomvd\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\tixpi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -49,11 +49,11 @@
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[1.0.3, )"
+              "version": "[2.3.0, )"
             },
             "Krafs.Rimworld.Ref": {
               "target": "Package",
-              "version": "[1.6.4489-beta, )",
+              "version": "[1.6.4535, )",
               "generatePathProperty": true
             },
             "Lib.Harmony": {
@@ -62,7 +62,7 @@
               "version": "[*, )"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }
