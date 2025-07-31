@@ -11,7 +11,7 @@
         <Optimize>true</Optimize>
         <DebugType>none</DebugType>
         <AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
-        <BaseOutputPath>C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\PlantGenetics-Continued-master\1.6\Assemblies</BaseOutputPath>
+        <BaseOutputPath>C:\Users\tixpi\OneDrive\Documents\Brambleton\PlantGenetics-Continued\1.6\Assemblies</BaseOutputPath>
     </PropertyGroup>
 
     <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">

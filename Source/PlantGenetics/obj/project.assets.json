@@ -343,11 +343,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\PlantGenetics-Continued-master\\Source\\PlantGenetics\\PlantGenetics.csproj",
+      "projectUniqueName": "C:\\Users\\tixpi\\OneDrive\\Documents\\Brambleton\\PlantGenetics-Continued\\Source\\PlantGenetics\\PlantGenetics.csproj",
       "projectName": "PlantGenetics",
-      "projectPath": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\PlantGenetics-Continued-master\\Source\\PlantGenetics\\PlantGenetics.csproj",
+      "projectPath": "C:\\Users\\tixpi\\OneDrive\\Documents\\Brambleton\\PlantGenetics-Continued\\Source\\PlantGenetics\\PlantGenetics.csproj",
       "packagesPath": "C:\\Users\\tixpi\\.nuget\\packages\\",
-      "outputPath": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\PlantGenetics-Continued-master\\Source\\PlantGenetics\\obj\\",
+      "outputPath": "C:\\Users\\tixpi\\OneDrive\\Documents\\Brambleton\\PlantGenetics-Continued\\Source\\PlantGenetics\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\tixpi\\AppData\\Roaming\\NuGet\\NuGet.Config",

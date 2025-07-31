@@ -3,3 +3,8 @@ C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\PlantGenetics-Contin
 C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\PlantGenetics-Continued-master\Source\PlantGenetics\obj\Debug\PlantGenetics.GeneratedMSBuildEditorConfig.editorconfig
 C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\PlantGenetics-Continued-master\Source\PlantGenetics\obj\Debug\PlantGenetics.csproj.CoreCompileInputs.cache
 C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\PlantGenetics-Continued-master\Source\PlantGenetics\obj\Debug\PlantGenetics.dll
+C:\Users\tixpi\OneDrive\Documents\Brambleton\PlantGenetics-Continued\1.6\Assemblies\PlantGenetics.dll
+C:\Users\tixpi\OneDrive\Documents\Brambleton\PlantGenetics-Continued\Source\PlantGenetics\obj\Debug\PlantGenetics.csproj.AssemblyReference.cache
+C:\Users\tixpi\OneDrive\Documents\Brambleton\PlantGenetics-Continued\Source\PlantGenetics\obj\Debug\PlantGenetics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tixpi\OneDrive\Documents\Brambleton\PlantGenetics-Continued\Source\PlantGenetics\obj\Debug\PlantGenetics.csproj.CoreCompileInputs.cache
+C:\Users\tixpi\OneDrive\Documents\Brambleton\PlantGenetics-Continued\Source\PlantGenetics\obj\Debug\PlantGenetics.dll
